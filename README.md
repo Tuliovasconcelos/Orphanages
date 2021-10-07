@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img alt="Happy" src="![happy](https://user-images.githubusercontent.com/57222479/136369893-29cc87e7-ada0-42f4-81c3-7348df3ee14b.png)" width="100%">
+ ![happy](https://user-images.githubusercontent.com/57222479/136369893-29cc87e7-ada0-42f4-81c3-7348df3ee14b.png)
 </p>
 
 ## 💡 Principais tecnologias
