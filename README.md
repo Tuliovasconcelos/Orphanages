@@ -2,9 +2,7 @@
   Plataforma web/mobile para suporte a casas de acolhimento desenvolvida na NLW #3 da <a href="https://rocketseat.com.br/">Rocketseat</a> 🚀
 </p>
 
-<p align="center">
  ![happy](https://user-images.githubusercontent.com/57222479/136369893-29cc87e7-ada0-42f4-81c3-7348df3ee14b.png)
-</p>
 
 ## 💡 Principais tecnologias
 - [Node.js](https://nodejs.org/en/)
