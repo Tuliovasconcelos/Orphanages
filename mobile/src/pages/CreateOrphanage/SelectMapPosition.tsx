@@ -21,25 +21,25 @@ export default function SelectMapPosition() {
 
   return (
     <View style={styles.container}>
-      <MapView 
+      <MapView
         initialRegion={{
-          latitude: -23.2940745,
-          longitude: -45.9600665,
+          latitude: -20.1431546,
+          longitude: -44.8937233,
           latitudeDelta: 0.008,
           longitudeDelta: 0.008,
         }}
         style={styles.mapStyle}
         onPress={handleSelectMapPosition}
       >
-        { position.latitude != 0 && (
-          <Marker 
+        {position.latitude != 0 && (
+          <Marker
             icon={mapMarkerImg}
             coordinate={{ latitude: position.latitude, longitude: position.longitude }}
           />
         )}
       </MapView>
 
-      { position.latitude != 0 && (
+      {position.latitude != 0 && (
         <RectButton style={styles.nextButton} onPress={handleNextStep}>
           <Text style={styles.nextButtonText}>Próximo</Text>
         </RectButton>
